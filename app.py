@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1HjdWOE90mwt5Z6a1OCVAtMv_Ds9pph1V
 """
 
-!pip install kagglehub pandas numpy matplotlib seaborn scikit-learn joblib streamlit
+pip install kagglehub pandas numpy matplotlib seaborn scikit-learn joblib streamlit
 
 import pandas as pd
 import seaborn as sns
